@@ -33,7 +33,7 @@ module.exports = {
             "\"",
             "../../plugins/",
             utilities.getPluginId(),
-            "/lib/ios/Crashlytics.framework/run ",
+            "/lib/ios/run ",
             pluginConfig.apiKey,
             " ",
             pluginConfig.apiSecret,
